@@ -13,16 +13,20 @@ Linux commands are executed in the terminal, which is case-sensitive. This guide
 
 The `ls` command is used to display a list of contents in a directory.
 
+
 **Syntax:** 
 ```bash
 ls
 ```
 
 **Output:**
+![Screenshot 2025-03-21 081645](https://github.com/user-attachments/assets/66f505d5-5670-4385-8a7e-3059c10d4e96)
+
 
 ### 2. `pwd` Command
 
 The `pwd` command displays the location of the current working directory.
+
 
 **Syntax:**
 ```bash
@@ -30,18 +34,21 @@ pwd
 ```
 
 **Output:**
+![Screenshot 2025-03-21 081655](https://github.com/user-attachments/assets/0134f822-97a1-40a8-bc91-2ed6089c105b)
 
 ### 3. `mkdir` Command
 
 The `mkdir` command is used to create a new directory.
+
 
 **Syntax:**
 ```bash
 mkdir <directory_name>
 ```
 
-**Output:**
 
+**Output:**
+![Screenshot 2025-03-21 081746](https://github.com/user-attachments/assets/35158fbf-9c39-452d-bea9-c16ebc9f26f2)
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
@@ -52,6 +59,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 081828](https://github.com/user-attachments/assets/7aa4a9b8-7e74-4cb7-bfa9-bb33acd16d83)
 
 ### 5. `cd` Command
 
@@ -63,6 +71,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083644](https://github.com/user-attachments/assets/8c7ef198-c7ee-4e0a-bca3-2cc686c5ae86)
 
 ### 6. `cat` Command
 
@@ -74,6 +83,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![Screenshot 2025-03-21 084404](https://github.com/user-attachments/assets/98a1d194-dd2c-4fcd-aa70-7941f4198953)
 
 ### 7. `cp` Command
 
@@ -140,6 +150,7 @@ head <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083809](https://github.com/user-attachments/assets/60b556b0-feb2-4e0f-8fe2-b36039cc3165)
 
 ### 13. `tail` Command
 
@@ -151,6 +162,7 @@ tail <file_name>
 ```
 
 **Output:**
+![Screenshot 2025-03-21 083825](https://github.com/user-attachments/assets/c577051d-0709-4f72-ae5c-f71a4317e507)
 
 ### 14. `id` Command
 
@@ -162,6 +174,7 @@ id
 ```
 
 **Output:**
+![Screenshot 2025-03-21 084711](https://github.com/user-attachments/assets/3d88f0dc-b273-48a5-8599-4a2cae89bffc)
 
 ### 15. `grep` Command
 
